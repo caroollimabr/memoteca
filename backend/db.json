@@ -1,0 +1,53 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Às vezes ouço passar o vento; e só de ouvir o vento passar, vale a pena ter nascido.",
+      "autoria": "Fernando Pessoa",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "conteudo": "Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.",
+      "autoria": "Oscar Wilde",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Só há duas maneiras de viver a vida: a primeira é vivê-la como se os milagres não existissem. A segunda é vivê-la como se tudo fosse milagre.",
+      "autoria": "Albert Einstein",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "conteudo": "Viver é desenhar sem borracha.",
+      "autoria": "Millôr Fernandes",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "Vale a pena viver - nem que seja para dizer que não vale a pena...",
+      "autoria": "Mário Quintana",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Dedica-se a esperar o futuro apenas quem não sabe viver o presente.",
+      "autoria": "Sêneca",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "Não tenho tempo pra mais nada, ser feliz me consome muito.",
+      "autoria": "Adélia Prado",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 9
+    }
+  ]
+}

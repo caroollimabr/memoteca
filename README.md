@@ -1,10 +1,13 @@
 # Memoteca
+Memoteca is a website where you can keep your thoughts and quotes that you like.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## To run it:
+- Install node_modules by running the command `npm install` in the directories:
+  1. memoteca/backend
+  2. memoteca
+- In the directory memoteca/backend, run the command `npm start`;
+- In the directory memoteca/backend, run the command `ng serve`.
+- Open Google Chrome and access `http://localhost:4200/`.
 
 ## Code scaffolding
 
