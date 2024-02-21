@@ -1,7 +1,7 @@
 # Memoteca
 Memoteca is a website where you can keep your thoughts and quotes that you like.
 
-## To run it:
+## Running the website locally
 - Install node_modules by running the command `npm install` in the directories:
   1. memoteca/backend
   2. memoteca
